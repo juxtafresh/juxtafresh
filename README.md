@@ -1,7 +1,11 @@
 
 <p align="center">
   
-  <img width="500" src="https://github.com/juxtafresh/juxtafresh/blob/main/regression_gif.gif" alt="poly_reg_gif">
+  <img width="500" src="https://github.com/juxtafresh/juxtafresh/blob/main/clustering.gif" alt="cluster_gif">
+  <img width="500" src="https://github.com/juxtafresh/juxtafresh/blob/main/nueral_net.gif" alt="nueral_net_gif">
+  <img width="500" src="https://github.com/juxtafresh/juxtafresh/blob/main/polar-vortex-from-space.gif" alt="polar_vortex_gif">
+  <img width="500" src="https://github.com/juxtafresh/juxtafresh/blob/main/polynomial_regression.gif" alt="poly_reg_gif">
+  
   
 </p> 
   
