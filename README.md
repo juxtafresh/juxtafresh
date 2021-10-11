@@ -1,7 +1,7 @@
 
 <p align="center">
   
-  <img width="600" src="https://github.com/juxtafresh/juxtafresh/blob/main/regression_gif.gif" alt="poly_reg_gif">
+  <img width="500" src="https://github.com/juxtafresh/juxtafresh/blob/main/regression_gif.gif" alt="poly_reg_gif">
   
 </p> 
   
