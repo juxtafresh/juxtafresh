@@ -1,7 +1,7 @@
 
 <p align="center">
   
-  ![Alt Text](https://github.com/juxtafresh/juxtafresh/blob/main/regression_gif.gif)
+  <img width="200" src="https://github.com/juxtafresh/juxtafresh/blob/main/regression_gif.gif" alt=poly_reg_gif">
   
 </p> 
   
